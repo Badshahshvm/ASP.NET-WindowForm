@@ -4,7 +4,7 @@ namespace WinFormsApp3
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent()
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
